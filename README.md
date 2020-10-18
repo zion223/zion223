@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=zion223&repo=NeteaseCloudMusic-MVVM&show_owner=true)](https://github.com/zion223/NeteaseCloudMusic-MVVM) 
 [![zion223's github stats](https://github-readme-stats.vercel.app/api?username=zion223)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zion223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
