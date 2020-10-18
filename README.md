@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=zion223&repo=NeteaseCloudMusic-MVVM&show_owner=true)](https://github.com/zion223/NeteaseCloudMusic-MVVM)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zion223)](https://github.com/zion223)
 
