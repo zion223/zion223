@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=zion223&repo=NeteaseCloudMusic-MVVM&show_owner=true)](https://github.com/zion223/NeteaseCloudMusic-MVVM)-->
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zion223&layout=compact&show_icons=true" />
 </a>
