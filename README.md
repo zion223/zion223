@@ -1,6 +1,6 @@
 ### Hi there! I am zion223
 
-> I am an Java developer from China.
+> I am a Java developer from China.
 <!--
 
 - 🔭 I’m currently working on ...
