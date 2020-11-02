@@ -1,6 +1,6 @@
 ### Hi there! I am zion223
 
-> I am a Java developer from Qingdao,China.
+> I am a Java developer from Qingdao.
 <!--
 
 - 🔭 I’m currently working on ...
