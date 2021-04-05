@@ -1,6 +1,6 @@
 ### Hi there! I am zion
 
-> I am a Android developer from China. 
+> I am an Android developer from China. 
 <!--
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Kotlin
