@@ -2,7 +2,6 @@
 
 > I am an Android developer from China. 
 
-- 📫 How to reach me: email 1025618933@qq.com
 <!--
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Kotlin
