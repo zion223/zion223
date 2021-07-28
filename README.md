@@ -1,13 +1,15 @@
 ### Hi there! I am zion
 
 > I am an Android developer from China. 
+
+- 📫 How to reach me: email 1025618933@qq.com
 <!--
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: email 1025618933@qq.com
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
